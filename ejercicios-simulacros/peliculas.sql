@@ -14,3 +14,9 @@ ej3=
 SELECT title, replacement_cost FROM film 
  WHERE rating= "PG-13" or  rating= "PG"
 ORDER BY replacement_cost DESC, title ASC
+
+ej4= 
+
+
+SELECT city, country FROM city JOIN country
+WHERE falto terminar 
